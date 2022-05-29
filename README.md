@@ -1,4 +1,4 @@
-Hi there 👋
+Hello!!! My name is Jessica Wong and I am a developer who wants to make a positive change in this world!
 <!-- **wongjesica/wongjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
 
 [<img src="https://simpleicons.org/icons/homeassistant.svg" width="24" height="24"/>](https://jessicawong.dev)
